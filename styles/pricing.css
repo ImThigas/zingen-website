@@ -104,6 +104,10 @@
       margin-inline: auto;
     }
 
+    & .cards{
+      align-items: center;
+    }
+
     & .premium .card {
       padding-bottom: 6rem;
     }
